@@ -1,0 +1,26 @@
+body {
+	height: 100vh;
+	display: flex;
+	justify-content: center;
+	align-items: center;
+	font-family: 'Lato', sans-serif;
+	background-color: #131312;
+}
+
+h1 {
+	font-size: 200px;
+	text-align: center;
+	text-transform: uppercase;
+	background: url(https://static.vecteezy.com/ti/vetor-gratis/p1/267475-confete-de-ouro-no-grunge-listrado-fundo-gr%C3%A1tis-vetor.jpg);
+	-webkit-background-clip: text;
+	color: transparent;
+	animation: text-background 10s linear infinite;
+}
+
+@keyframes text-background {
+
+	from { background-position: 0 0 }
+
+	to { background-position: 100% 100% }
+
+} 
