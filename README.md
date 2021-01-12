@@ -7,4 +7,4 @@ Desenvolviemnto Front-End, aplicando as propridades:</b></p>
 * Background-clip
 * Animations
 
- <img src="https://gifs.com/gif/animations-zvrYW7" >
+ <img src="https://github.com/Anacarlags/frase-animada-css/blob/master/gif%20(1).gif" >
